@@ -1,11 +1,14 @@
-# image_processing_NN
-Image Processing Neural Network along with additional image and face capturing functions
+################################ Project overview ################################
+A full Neural Net made from scratch in python made to make a face recognition NN.
 
 IMPORTANT NOTE:
-I am not very good at this and am just a noice coder, so when using, expect things to break and potentially not work.
-Also, this is more of a proof of concept made to further my understanding of Neural Network's and of python in general,
-as such this model and the set up in general is not very efficent and is VERY slow.
-Thank you however for deciding to check it out anyways!
+This project was unsuccessful. The network was so slow in training that i realized coding it in raw python allow was a poor choice as such
+I abandoned this project and diverted it into two seperate ones:
 
-PS:
-i am no longer working on this project, so expect no further update/fixing issues/anything
+Image capturing code: 
+The functions written to capture images and save them have been rewritten and improved into its own repo you can find here:
+https://github.com/NoahWanless/ImageCapture
+
+Facial recognition:
+A project using tensorflow and keras will soon appear that will furfill this functionality using code that will actually run fast.
+
